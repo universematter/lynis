@@ -333,6 +333,9 @@ os:OpenBSD 7.3:2024-04-05:1712268000:
 os:OpenBSD 7.4:2024-10-08:1728338400:
 os:OpenBSD 7.5:2025-05-31:1748642400:
 os:OpenBSD 7.6:2025-10-31:1761865200:
+os:OpenBSD 7.7:2026-05-19:1779141600:
+os:OpenBSD 7.8:2026-10-31:1793401200:
+os:OpenBSD 7.9:2027-05-31:1811714400:
 #
 # Red Hat Enterprise Linux - https://access.redhat.com/labs/plcc/
 #
