@@ -43,10 +43,10 @@
     PROGRAM_WEBSITE="https://cisofy.com/lynis/"
 
     # Version details
-    PROGRAM_RELEASE_DATE="2026-06-25"
-    PROGRAM_RELEASE_TIMESTAMP=1782377415
-    PROGRAM_RELEASE_TYPE="release" # pre-release or release
-    PROGRAM_VERSION="3.1.7"
+    PROGRAM_RELEASE_DATE="2026-07-17"
+    PROGRAM_RELEASE_TIMESTAMP=1784271957
+    PROGRAM_RELEASE_TYPE="pre-release" # pre-release or release
+    PROGRAM_VERSION="3.1.8"
 
     # Source, documentation and license
     PROGRAM_SOURCE="https://github.com/CISOfy/lynis"

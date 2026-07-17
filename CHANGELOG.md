@@ -1,5 +1,12 @@
 # Lynis Changelog
 
+## Lynis 3.1.8 (not released yet)
+
+### Changed
+- FreeBSD end-of-life entries in database
+
+---------------------------------------------------------------------------------
+
 ## Lynis 3.1.7 (2026-06-25)
 
 ### Changed
