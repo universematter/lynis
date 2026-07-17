@@ -4,6 +4,7 @@
 
 ### Changed
 - FreeBSD end-of-life entries in database
+- Fix for empty machine ID detection
 
 ---------------------------------------------------------------------------------
 
