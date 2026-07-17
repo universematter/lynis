@@ -3,7 +3,7 @@
 ## Lynis 3.1.8 (not released yet)
 
 ### Changed
-- FreeBSD end-of-life entries in database
+- Adjusted end-of-life entries in database: FreeBSD, OpenBSD
 - Fix for empty machine ID detection
 
 ---------------------------------------------------------------------------------
